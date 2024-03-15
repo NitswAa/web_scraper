@@ -1,0 +1,23 @@
+{
+  "name": "web_scraper",
+  "version": "1.0.0",
+  "description": "CLI Web Crawler for SEO",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitswAa/web_scraper.git"
+  },
+  "author": "Austin Witte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitswAa/web_scraper/issues"
+  },
+  "homepage": "https://github.com/NitswAa/web_scraper#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
